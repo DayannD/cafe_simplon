@@ -5,21 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e304ba28-5cdd-4482-a46b-69c38a5e2e9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cafe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exo1/Cafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exo1/Cafetiere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exo1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exo1/Tasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exo1/TypeCafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exo4/BanqueDeDonne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exo4/Cafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exo4/Cafetiere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exo4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exo4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exo4/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exo4/Tasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exo4/TypeCafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo2/Cafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo2/Cafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo2/Cafetiere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo2/Cafetiere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo2/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo2/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo2/Tasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo2/Tasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo2/TypeCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo2/TypeCafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo3/BanqueDeDonne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo3/BanqueDeDonne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo3/Cafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo3/Cafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo3/Cafetiere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo3/Cafetiere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo3/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo3/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo3/Tasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo3/Tasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo3/TypeCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo3/TypeCafe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +37,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,16 +68,72 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/utilisateur/Desktop/cafe/src/exo4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\utilisateur\Desktop\cafe\src\exo4" />
+      <recent name="C:\Users\utilisateur\Desktop\cafe\src\exo3" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exo3" />
+      <recent name="exo2" />
       <recent name="exo1" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.exo4.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exo2.Main" />
+      <module name="cafe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exo3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exo3.Main" />
+      <module name="cafe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exo4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exo4.Main" />
+      <module name="cafe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exo4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exo4.Main" />
+        <item itemvalue="Application.exo3.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +143,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672673095066</updated>
-      <workItem from="1672673097041" duration="766000" />
+      <workItem from="1672673097041" duration="1167000" />
+      <workItem from="1672739398598" duration="2394000" />
     </task>
     <servers />
   </component>

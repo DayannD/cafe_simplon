@@ -1,3 +1,5 @@
+package exo2;
+
 public enum TypeCafe {
 
     JAVA(0.035),

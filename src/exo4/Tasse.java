@@ -1,4 +1,4 @@
-package exo2;
+package exo4;
 
 public class Tasse {
     double quantiteCafeMax ;

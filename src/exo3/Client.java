@@ -1,4 +1,4 @@
-package exo2;
+package exo3;
 
 import java.util.HashMap;
 import java.util.List;

@@ -1,4 +1,4 @@
-package exo3;
+package exo4;
 
 public class Cafe {
 
